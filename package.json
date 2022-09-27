@@ -2,6 +2,9 @@
   "name": "acidus",
   "version": "1.0.0",
   "description": "HTML5 Template",
+  "engines": {
+    "node": "18.x"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
